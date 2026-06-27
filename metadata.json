@@ -1,0 +1,6 @@
+{
+  "name": "AI Productivity Companion",
+  "description": "Proactive AI coach, adaptive study scheduler, note summarizer, smart flashcard creator, quiz generator, habit tracker, and voice-to-task commands system.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
